@@ -10,3 +10,5 @@ def greet(name: str) -> str:
 
 if __name__ == "__main":
     print(greet(name=input("What is your name?")))
+
+
